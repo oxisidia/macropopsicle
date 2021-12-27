@@ -52,7 +52,7 @@ Of the five pieces the two main halves, colored orange provide the majority of t
 
 Before assembling the case insert the switches into the switch plate. 
 
-###Soldering: 
+### Soldering: 
 
 Solder the 1 black wire onto the ground pin of the dev board make sure the wire does not poke through to the side. Then splice the remaining two wires onto the ground wire.
 
@@ -74,25 +74,27 @@ Some libraries are also required for this code to function. Links are included b
 
 ### Mechanical Assembly:
 
-The keyplate is secured by four short bolts into the top case half. 
+The keyplate is secured by four 4mm long bolts into the top case half. 
 
-**Key plate assembly image
+![alt text](https://github.com/oxisidia/macropopsicle/blob/main/Images/keyplate_assembly.PNG)
 
-The white small bite piece is secured to the lower case half with a single bolt.
+The white small bite piece is secured to the lower case half with a single bolt 4mm bolt.
 
-**Bite piece assembly image
+![alt text](https://github.com/oxisidia/macropopsicle/blob/main/Images/bite_piece_assembly.PNG)
 
 The larger white piece secures first to the lower orange case half and then to the upper case half once fully assembled.
 
-**Ice cream / top case half assembly images
+![alt text](https://github.com/oxisidia/macropopsicle/blob/main/Images/Icecream_piece_assembly1.PNG)
 
-The two halves are assembled togeather using three long bolts. 
+![alt text](https://github.com/oxisidia/macropopsicle/blob/main/Images/Icecream_piece_assembly2.PNG)
 
-**Final bolt assembly image
-
-Position the microcontroller in place using the tweezers if neccessary. 
+Position the microcontroller in place (use the tweezers if neccessary to ensure it's properly seated) 
 
 **position the dev board with tweezers image
+
+Assemble two halves are assembled togeather using three 20mm long bolts. 
+
+![alt text](https://github.com/oxisidia/macropopsicle/blob/main/Images/finalbolt_assembly.PNG)
 
 All pieces which have bolts seated into them have holes designed to allow M3 bolts to screw into the plastic.
 
