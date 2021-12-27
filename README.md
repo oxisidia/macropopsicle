@@ -82,15 +82,15 @@ The white small bite piece is secured to the lower case half with a single bolt 
 
 ![alt text](https://github.com/oxisidia/macropopsicle/blob/main/Images/bite_piece_assembly.PNG)
 
+Position the microcontroller in place (use the tweezers if neccessary to ensure it's properly seated) 
+
+![alt text](https://github.com/oxisidia/macropopsicle/blob/main/Images/devboard_assembly.PNG)
+
 The larger white piece secures first to the lower orange case half and then to the upper case half once fully assembled.
 
 ![alt text](https://github.com/oxisidia/macropopsicle/blob/main/Images/Icecream_piece_assembly1.PNG)
 
 ![alt text](https://github.com/oxisidia/macropopsicle/blob/main/Images/Icecream_piece_assembly2.PNG)
-
-Position the microcontroller in place (use the tweezers if neccessary to ensure it's properly seated) 
-
-![alt text](https://github.com/oxisidia/macropopsicle/blob/main/Images/devboard_assembly.PNG)
 
 Assemble two halves are assembled togeather using three 20mm long bolts. 
 
