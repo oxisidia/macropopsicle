@@ -33,6 +33,8 @@ An open source two key macro-pad modeled to look like a cartoony melting popsicl
   
   -1x Adafruit QT Py - SAMD21 Dev Board 
   
+  ![alt text](https://github.com/oxisidia/macropopsicle/blob/main/Images/exploded_assembly.PNG)
+  
    A note on the dev board: Boards of a similar form factor to the Adafruit QT Py - SAMD21 may also work with this case without needing any modifications.
    However the Adafruit QT Py - SAMD21 is the only board that has currently been tested and confirmed to work.
 
@@ -40,7 +42,7 @@ An open source two key macro-pad modeled to look like a cartoony melting popsicl
 
 All parts except the development board, wires, switches, popsicle stick and bolts need to be fabricated the parts have been designed for 3D printing however they could also be made through machining or other fabrication methods such as machining. 
 
-All are designed to print with very little to no support material. 
+All are designed to print with very little to no support material. All parts feature large flat surfaces I recommend printing with these face down on the build plate if using a filament extrusion 3D printer.
 
 ## Assembly
 
@@ -72,13 +74,29 @@ Some libraries are also required for this code to function. Links are included b
 
 ### Mechanical Assembly:
 
-The keyplate is secured by four short bolts into the top case half. The white small bite piece is secured to the lower case half with a single bolt. The larger white piece secures first to the lower orange case half and then to the upper case half once fully assembled. The two halves are assembled togeather using three long bolts. 
+The keyplate is secured by four short bolts into the top case half. 
+
+**Key plate assembly image
+
+The white small bite piece is secured to the lower case half with a single bolt.
+
+**Bite piece assembly image
+
+The larger white piece secures first to the lower orange case half and then to the upper case half once fully assembled.
+
+**Ice cream / top case half assembly images
+
+The two halves are assembled togeather using three long bolts. 
+
+**Final bolt assembly image
 
 Position the microcontroller in place using the tweezers if neccessary. 
 
+**position the dev board with tweezers image
+
 All pieces which have bolts seated into them have holes designed to allow M3 bolts to screw into the plastic.
 
-Once the popsicle case is assembled the keycaps and popsicle switch can be press fitted into place. 
+Once the popsicle case is assembled the keycaps and popsicle switch can be press fitted into place. Your macropopsicle is should now be assembled and appear like the one in the image at the top of this document.
 
 ## License
 I have invested time and resources providing this open source design. If you have benefited from this design being open source, please consider making a small donation if you are able to. Donations are never expected but always appreciated, donations will help me create more open source designs in the future.
