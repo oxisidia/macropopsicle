@@ -90,7 +90,7 @@ The larger white piece secures first to the lower orange case half and then to t
 
 Position the microcontroller in place (use the tweezers if neccessary to ensure it's properly seated) 
 
-**position the dev board with tweezers image
+![alt text](https://github.com/oxisidia/macropopsicle/blob/main/Images/devboard_assembly.PNG)
 
 Assemble two halves are assembled togeather using three 20mm long bolts. 
 
