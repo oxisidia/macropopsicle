@@ -40,9 +40,9 @@ An open source two key macro-pad modeled to look like a cartoony melting popsicl
 
 ## Fabrication
 
-All parts except the development board, wires, switches, popsicle stick and bolts need to be fabricated the parts have been designed for 3D printing however they could also be made through machining or other fabrication methods such as machining. 
+All parts except the development board, wires, switches, popsicle stick and bolts need to be fabricated the parts have been designed for 3D printing however they could also be made through other fabrication methods such as machining.
 
-All are designed to print with very little to no support material. All parts feature large flat surfaces I recommend printing with these face down on the build plate if using a filament extrusion 3D printer.
+All parts are designed to print with very little to no support material. All parts feature large flat surfaces I recommend printing with these face down on the build plate if using a filament extrusion 3D printer.
 
 ## Assembly
 
