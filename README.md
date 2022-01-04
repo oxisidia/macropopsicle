@@ -52,7 +52,13 @@ Of the five pieces the two main halves, colored orange provide the majority of t
 
 Before assembling the case insert the switches into the switch plate. 
 
+  ![alt text](https://github.com/oxisidia/macropopsicle/blob/main/Images/Switch_Assembly.PNG)
+
 ### Soldering: 
+
+Wiring diagram:
+
+  ![alt text](https://github.com/oxisidia/macropopsicle/blob/main/Images/Wiring_Diagram.PNG)
 
 Solder the 1 black wire onto the ground pin of the dev board make sure the wire does not poke through to the side. Then splice the remaining two wires onto the ground wire.
 
@@ -99,6 +105,8 @@ Assemble two halves are assembled togeather using three 20mm long bolts.
 All pieces which have bolts seated into them have holes designed to allow M3 bolts to screw into the plastic.
 
 Once the popsicle case is assembled the keycaps and popsicle switch can be press fitted into place. Your macropopsicle is should now be assembled and appear like the one in the image at the top of this document.
+
+![alt text](https://github.com/oxisidia/macropopsicle/blob/main/Images/Final_press_fit_assembly.PNG)
 
 ## License
 I have invested time and resources providing this open source design. If you have benefited from this design being open source, please consider making a small donation if you are able to. Donations are never expected but always appreciated, donations will help me create more open source designs in the future.
