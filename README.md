@@ -1,7 +1,9 @@
 # macropopsicle
 An open source two key macro-pad modeled to look like a cartoony melting popsicle. 
 
-#Build instructions
+![alt text](https://github.com/oxisidia/macropopsicle/blob/main/Images/finished_print.png)
+
+# Build instructions
 
 ## Parts List
 
